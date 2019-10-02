@@ -1,93 +1,81 @@
-info: "The Particle & Astroparticle Physics Programme is coming to its second edition, this time to be held in the autumn. Following last year's great success, the Italian Association of Physics Students (AISF) will be organising a similar event, also including some new features and further improvements.
+info: "The Particle & Astroparticle Physics Programme is coming to its fourth edition. Following the past editions' great success, the Association of Italian Physics Students (AISF) is organising it once more, also including some new features and further improvements.
 </p><p>
 During the Programme, 40 students will be visiting the National Gran Sasso Laboratory and the Gran Sasso Science Institute in central Italy and the INFN laboratories in Frascati, Rome. Participants will meet in Rome, then move to the city of L'Aquila by coach and eventually return to Rome for departure. The event will have a focus on astroparticle physics, but a number of other topics will be touched upon, including theoretical physics, nuclear physics, high energy collisions and cosmology. Students will be expected to have a basic understanding of these subjects in order to effectively make the most of the programme.
 </p><p>"
 
-last_update: 30/07/2017
+last_update: 04/10/2019
 
 schedule:
-  - day: Monday 
-    date: "09/10"
-    short_descr: Arrival and opening cerimony in Rome, Tor Vergata
+  - day: Tuesday 
+    date: "03/12"
+    short_descr: Arrival and opening cerimony in Rome, University Roma Tre
     activity:
-      - hour: "Afternoon"
-        descr: "Check-in"
+      - hour: "11:00 - 15:00"
+        descr: "Accreditation"
+      - hour: "15:00 - 15:30"
+        descr: "Opening ceremony @Roma Tre"
+      - hour: "15:30 - 17:30"
+        descr: "Plenary Lectures"
+      - hour: "17:30 - 19:30"
+        descr: "Poster session + Welcoming buffet"
       - hour: "Evening"
-        descr: "Opening Ceremony at the University"
+        descr: "Check-in at hotel + free night"
       
-  - day: Tuesday
-    date: "10/10"
-    short_descr: National Laboratories of Frascati and L' Aquila
-    activity:
-      - hour: "10.00-11.30"
-        descr: "The INFN National Laboratory of Frascati: overview of infrastructures and activities - Paola Gianotti"
-      - hour: "11.30-13.30"
-        descr: "Visit to Sparc_Lab, Dafne Control Room, AdA and Exhibit 'OpenDetectors'"
-      - hour: "13.30-14.45"
-        descr: "Lunch at LNF canteen"
-      - hour: "15.00"
-        descr: "Departure to L'Aquila"
-      - hour: "evening"
-        descr: "check-in at the Hotel and social dinner"
   - day: Wednesday
-    date: "11/10"
-    short_descr: Gran Sasso National Laboratories 
+    date: "04/12"
+    short_descr: University of Rome Tor Vergata and National Laboratories of Frascati
     activity:
-      - hour: "9.45-10.00"
-        descr: "Welcome Talk"
-      - hour: "10.00-10.35"
-        descr: "Dark Matter@LNGS Vincenzo Caracciolo (LNGS)"
-      - hour: "10.35-11.00"
-        descr: "Coffee Break"
-      - hour: "11.00-11.35"
-        descr: "LUNA - Laszlo Csedreki"
-      - hour: "11.35-12.10"
-        descr: "Borexino - Aldo Ianni"
-      - hour: "12.10-12.45"
-        descr: "Double Beta@LNGS - Paolo Gorla"
-      - hour: "12.45-13.20"
-        descr: "Theory Group - Francesco Villante"
-      - hour: "13.20-14.40"
-        descr: "Lunch AND GROUP PICTURE"
-      - hour: "14.40-15.30"
-        descr: "Safety Course"
-      - hour: "16.15 - ..."
-        descr: "Guided tour of the Underground Labs"
+      - hour: "9:00 - 11:30"
+        descr: "Welcoming at University of Rome Tor Vergata - scientific talks"
+      - hour: "11:30 - 12:30"
+        descr: "Lab visits"
+      - hour: "12:30 - 13:30"
+        descr: "Lunch @Sogene"
+      - hour: "13:30 - 14:30"
+        descr: "Moving to National Laboratories of Frascati"
+      - hour: "14:30 - 18:30"
+        descr: "Visits @LNF"
+      - hour: "18:30"
+        descr: "Departure to L'Aquila"
+      - hour: "Evening"
+        descr: "check-in at Hotel Castello and Italian dinner (optional)"
+        
   - day: Thursday
-    date: "12/10"
+    date: "05/12"
     short_descr: Gran Sasso Science Institute
+    activity:
+      - hour: "9:30 - 12:30"
+        descr: "Talks @GSSI"
+      - hour: "13:00 - 14:00"
+        descr: "Lunch"
+      - hour: "14:30 - 17:30"
+        descr: "Student Talks"
+      - hour: "Evening"
+        descr: "Pizzata (optional)"
+         
+  - day: Friday
+    date: "06/12"
+    short_descr: Gran Sasso National Laboratories
     activity:
       - hour: "Morning"
         descr: "Talks"
+      - hour: "12:30"
+        descr: "Lunch @LNGS"
       - hour: "Afternoon"
-        descr: "Poster Session"
-  - day: Friday
-    date: "13/10"
-    short_descr: Return to Rome
-    activity:
-      - hour: "8.00"
-        descr: "Check-out from L'Aquila and departure to Rome"
-      - hour: "12.00-13.00"
-        descr: "First stop: Roma Termini, second stop: Roma Fiumicino Airport"
+        descr: "Visit to the underground laboratories"
+      - hour: "17:00"
+        descr: "Departure to Roma Termini train station"
+  
 few_info:
-  info: ""
-  specs:
-    - text: "In order to enroll to the event you must be an IAPS member."
-      url: "#!"
-    - text: "We expect to select 40 students, of whom approximately half will be Italian."
-      url: "#!"
-    - text: "Participation fees are fixed at €110 for each applicant. Such fee will cover the cost of accommodation in both L`Aquila and Rome, breakfasts at the Federico II Hotel, one buffet lunch at the LNGS, one lunch at the GSSI canteen, AISF-IAPS t-shirts, one travel ticket in the Rome/Frascati area, travel from Rome to L’Aquila (and vice versa), as well as travel from the Federico II Hotel to the LNGS. Please notice that participation fees <b>do not cover</b> the following:"
+  
+    - text: "Participation fees are fixed at €100 for each applicant. Such fee will cover the cost of accommodation in both L`Aquila and Rome, breakfasts at the hotels, one buffet lunch at the LNGS, one lunch at the GSSI canteen, one travel ticket in the Rome/Frascati area, travel from Rome to L’Aquila (and vice versa), as well as travel from Hotel Castello to the LNGS. Please notice that participation fees <b>do not cover</b> the following:"
       url: "#!"
       subpoints:
         - text: "Journeys to/from Rome at arrival and departure. These will need to be arranged independently;"
           url: "#!"
         - text: "Insurance;"
           url: "#!"
-        - text: "Meals other than those officially offered in the Programme. When useful, the Organising Committee
+        - text: "Meals defined optional, which are not officially offered in the Programme. When useful, the Organising Committee
       will always suggest places to eat."
           url: "#!"
-    - text: "Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes."
-      url: "http://www.ai-sf.it"
-      button: Module
-    - text: "Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time."
-      url: "#!"
+
