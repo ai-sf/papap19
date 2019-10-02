@@ -15,6 +15,19 @@ During our visits, we will be offered a large number of talks, as in the past ed
 
 accomodation:
 
+  - img: img/facilities/hotel_laurence.jpg
+    title: Hotel Laurence
+    descr: "Accomodation in Rome will be provided at Hotel Laurence, Via Pietro Baragiola, 18/24 - 00133 Roma (RM)"
+    site: "http://hotellaurence.com/"
+    map: "https://www.google.com/maps/place/Hotel+Laurence/@41.8484434,12.6233421,15z/data=!4m2!3m1!1s0x0:0xc4f6786e0f5ac928?sa=X&ved=2ahUKEwiosc6E2_7kAhXUSBUIHeVODpsQ_BIwC3oECAwQCA"
+    
+  - img: img/facilities/hotel_castello.jpg
+    title: Hostel Castello
+    descr: "Accomodation in L'Aquila will be provided at the Hotel Castello, Piazza Battaglione degli Alpini, 67100 - L'Aquila (AQ)."
+    site: "https://www.hotelcastelloaq.com/"
+    map: "https://www.google.com/maps/place/Hotel+Castello/@42.354026,13.4011648,15z/data=!4m2!3m1!1s0x0:0x1ce356a15f16a7be?sa=X&ved=2ahUKEwiV2pvs2_7kAhXEDewKHXKNCo4Q_BIwCnoECA4QCA"
+    
+    
 science:
   - img: img/facilities/1.jpg
     title: LNGS
