@@ -1,4 +1,4 @@
-- id: "/"
+- id: "{{ site.url }}"
   title: "PAPAP2019 - Particle and Astroparticle Physics Autumn Programme 2019"
   description: "The Particle & Astroparticle Physics Programme, now at its fourth edition, will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on astroparticle physics and one key mission: to foster enthusiasm in the minds of young physicists."
   keywords: "aisf associazione italiana studenti di fisica iaps astroparticle physics particle association students international programme event"
