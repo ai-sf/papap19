@@ -67,15 +67,16 @@ schedule:
         descr: "Departure to Roma Termini train station"
   
 few_info:
-  
-   - text: "Participation fees are fixed at €110 for each applicant. Such fee will cover the cost of accommodation in both L`Aquila and Rome, breakfasts at the hotels, a dinner buffet at Roma Tre, lunches on the second, third and fourth day, one travel ticket in the Rome/Frascati area, travel from Rome to L’Aquila (and vice versa), as well as travel from Hotel Castello to the LNGS. Please notice that participation fees <b>do not cover</b> the following:"
-     url: "#!"
-     subpoints:
-        - text: "Journeys to/from Rome at arrival and departure. These will need to be arranged independently;"
-          url: "#!"
-        - text: "Insurance;"
-          url: "#!"
-        - text: "Meals defined optional, which are not officially offered in the Programme. When useful, the Organising Committee
-      will always suggest places to eat."
-          url: "#!"
+     info: ""
+     specs:
+       - text: "Participation fees are fixed at €110 for each applicant. Such fee will cover the cost of accommodation in both L`Aquila and Rome, breakfasts at the hotels, a dinner buffet at Roma Tre, lunches on the second, third and fourth day, one travel ticket in the Rome/Frascati area, travel from Rome to L’Aquila (and vice versa), as well as travel from Hotel Castello to the LNGS. Please notice that participation fees <b>do not cover</b> the following:"
+         url: "#!"
+         subpoints:
+           - text: "Journeys to/from Rome at arrival and departure. These will need to be arranged independently;"
+             url: "#!"
+           - text: "Insurance;"
+             url: "#!"
+           - text: "Meals defined optional, which are not officially offered in the Programme. When useful, the Organising Committee
+                will always suggest places to eat."
+             url: "#!"
 
