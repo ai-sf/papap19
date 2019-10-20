@@ -4,6 +4,8 @@
   url: programme
 - text: Registration
   url: registration
+- text: Speakers
+  url: speaker
 - text: Sponsors
   url: sponsors
 - text: AISF
