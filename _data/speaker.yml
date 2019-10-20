@@ -1,0 +1,16 @@
+description: "We are happy to host professors, accademics and other prominent figures working in the fields of Nuclear Physics, Astrophysics and Cosmology. Here you can find the profiles of some of them (constantly updated)."
+
+content:
+- nome: "Prof. Fabrizio Petrucci"
+  id: petrucci
+  uni: "Università Roma Tre"
+  img: "fabrizio_petrucci.jpg"
+  title: "Particle physics with accelerators: the energy and intensity/precision frontiers; two examples from the activities @ Roma Tre."
+  bio: "Dr. Petrucci is working in Roma Tre University since the year 2003, after getting his PhD, with different position at University or INFN, then as a researcher (since 2008) and finally as a professor (since 2016). 
+He has been local coordinator and member of the National Scientific Committee 1 (Particle physics) of INFN and referee for INFN of some experimental activities.
+For the department of Mathematics and Physics, he is currently member of the Physics PhD board and deputy for the Infrastructures within the “Excellence Department” project (Dipartimento di Eccellenza).
+He has always been involved in the study of proton-proton high energy collisions at LHC. In particular, with the ATLAS experiment, he focused on inclusive leptons cross sections measurements and Higgs boson searches and measurements. He built, tested and installed some of the ATLAS muon detectors and he was responsible for the calibrations of the muon detectors in the period 2010-2012. In the last years he's been involved in R&D and construction for the phase-1 upgrades of the ATLAS muon detectors and in the R&D of innovative Micro Patters Gas Detector for tracking under high rates. Recently, his interests are moving to different topics as neutrino physics (with the JUNO experiment) and to the search of Dark Matter exploiting the so called “directionality” (within the CYGNO project)."
+
+  abstract: ""
+  link:
+  slides: 
