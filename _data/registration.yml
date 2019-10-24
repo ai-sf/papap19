@@ -44,9 +44,11 @@ terms:
 deadlines:
   info: ""
   specs:
-    - text: "A first round of registration for the event will be open at this page between October 5th (12:00, CET) and October 24rd (19:00, CET)."
+    - text: "A second round of registration for the event is open at this page until November 1st (19:00, CET). 
+             </p><p>
+             For students with an IAPS membership different from AISF it will be applied the first arrived first served principle"
       url: "#!"
-    - text: "Following the registration period, we expect to email all applicants by the 27th of October. Payments will then be required (by bank transfer, PayPal, or credit card) within 7 days of receiving an acceptance email from the organising committee."
+    - text: "We expect to email the first round applicants by the 27th of October. Payments will then be required (by bank transfer, PayPal, or credit card) within 7 days of receiving an acceptance email from the organising committee."
       url: "#!"
     - text: "Please notice that applicants do not need to be specialising in the field of nuclear physics, but can be from any discipline of Physics."
       url: "#!"
