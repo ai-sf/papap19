@@ -42,7 +42,7 @@ schedule:
       - hour: "18:00"
         descr: "Departure to L'Aquila"
       - hour: "Evening"
-        descr: "check-in at Hotel Castello and Italian dinner (optional)"
+        descr: "check-in at Hotel Castello and dinner @Consiglio Regionale"
         
   - day: Thursday
     date: "05/12"
@@ -55,7 +55,7 @@ schedule:
       - hour: "14:30 - 17:30"
         descr: "Student Talks"
       - hour: "Evening"
-        descr: "Pizzata (optional)"
+        descr: "Arrosticini dinner (optional)"
          
   - day: Friday
     date: "06/12"
@@ -80,7 +80,6 @@ few_info:
              url: "#!"
            - text: "Insurance;"
              url: "#!"
-           - text: "Meals defined optional, which are not officially offered in the Programme. When useful, the Organising Committee
-                will always suggest places to eat."
+           - text: "Meals defined optional, which are not officially offered in the Programme. When useful, the Organising Committee will always suggest places to eat."
              url: "#!"
 
