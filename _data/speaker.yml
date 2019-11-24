@@ -30,6 +30,11 @@ activity in the field of Astroparticle Physics, with a special interest for Data
   uni: "Università Roma Tor Vergata"
   img: "anna_diciaccio.jpg"
   title: "The birth of the Universe and Particle Physics" 
+  bio: "Prof. Anna Di Ciaccio is full professor at the University of Roma Tor Vergata. She has been involved in research in experimental particle physics since 1980. 
+  From 1981 till 1983 she was research associate at the Brookhaven National Laboratory, USA. She worked at the Physics Department of the Harvard University in Cambridge and later in
+  the Oak-Ridge American Laboratory to set up a Montecarlo program to simulate the hadron particle interactions. She was fellow at the CERN laboratory in Geneva, participating in several experiments on accelerators to study proton-proton and protonantiproton
+ collision, and pion-nucleon interactions. Since 1992 she is a member of the ATLAS international Collaboration and is the group leader of the research group at the University of Roma Tor Vergata. In the last two years she has contributed to the R&D work
+for the superB experiment. She is currently teaching to undergraduate and graduate student courses related to the Experimental Technique in Nuclear and Subnuclear Physics and Advanced Particle Physics."
   
 - nome: "Prof. Annalisa D'Angelo"
   id: dangelo
@@ -42,3 +47,27 @@ and GRAAL (Grenoble) facilities, with the aim of investigating the nucleon baryo
 member of the CLAS Collaboration (JLAB, USA), where the use of a polarized electron beam extended the research to the study of the internal structure of the nucleon through electron
 scattering reactions and nucleon-nucleon correlation in nuclei. Since 2013 she is part of the HPS collaboration dedicated to the search of light dark matter at
 JLAB. In 2016 she also joined the EIC user group."
+
+- nome: "Prof. Vittorio Nicola"
+  id: nicola
+  uni: "Università Roma Tor Vergata"
+  img: "vittorio_nicola.jpg"
+  title: "The Cosmic Background Radiation from Planck to LiteBIRD"
+  bio: "Prof. Vittorio Nicola is full professor of Astronomy and Astrophysics at the University of Roma Tor Vergata. He is president of the Coordination
+Structure of Research Doctorates of Tor Vergata and vice-Coordinator of the Research Doctorates Class of Astronomy, Astrophysics and Space
+Science. His research interests are correlated to a theoretical activity in cosmology and in galaxy formation. He was Co-I of the ESA/Planck mission, finding
+definitive results on anisotropies of Cosmic Microwave Background temperature. He is cooperating for the realization of the JAXA/LiteBIRD satellite and he is the Scientific Manager of the ASI/
+COSMOS Agreement for the national coordination of Cosmology activities. He is author of more than 200 articles on international magazines, with more than 25.000 quotes. He is a National Partner
+of the Scienze Academy in Torino, Worthy Partner of the Italian Physics Society (SIF) and he is a member of the European Physics Society (EPS), International Astronomical Union and European
+Academy of Sciences and Arts."
+
+- nome: "Prof. Roberta Sparvoli"
+  id: sparvoli
+  uni: "Università Roma Tor Vergata"
+  img: "roberta_sparvoli.jpg"
+  title: "Astroparticle Physics at the University of Rome Tor Vergata"
+  bio: "Prof. Roberta Sparvoli is associate professor of Nuclear and Subnuclear Physics at the University of Roma Tor Vergata and she has a research
+assignment at Istituto Nazionale di Fisica Nucleare (National Institute of Nuclear Physics). She focused her scientific activity on researching
+Antimatter and Dark Matter signals, and on studying nuclear and isotopic components of Cosmic Rays at high energy. She carried out interdisciplinary research activities
+conducted in space aboard the two Space Stations MIR and ISS. She participated in space missions like NINA and PAMELA. She currently coordinates a group of about 20 people in the Physics
+Department of Tor Vergata, whose most important mission is the CES/Limadou Italian-Chinese experiment, which is studying electromagnetic perturbations and ionosphere particles."
