@@ -33,16 +33,14 @@ schedule:
         descr: "Lunch @Sogene"
       - hour: "13:30 - 14:30"
         descr: "Moving to National Laboratories of Frascati"
-      - hour: "15:00 - 15:10"
-        descr: "Arrival and welcoming @LNF"
-      - hour: "15:10 - 15:45"
-        descr: "Scientific Talk"
-      - hour: "15:45 - 18:00"
-        descr: "Visit to LNF facilities"
+      - hour: "15:00 - 16:00"
+        descr: "Talk by Paola Gianotti: Frascati National Laboratory - overview of infrastructures and activities"
+      - hour: "16:00 - 18:00"
+        descr: "Visit to LNF facilities: Visitor Centre, Dafne and Kloe control rooms"
       - hour: "18:00"
         descr: "Departure to L'Aquila"
       - hour: "Evening"
-        descr: "check-in at Hotel Castello and dinner @Consiglio Regionale"
+        descr: "check-in at Hotel Castello and typical regional dinner (optional)"
         
   - day: Thursday
     date: "05/12"
@@ -55,7 +53,7 @@ schedule:
       - hour: "14:30 - 17:30"
         descr: "Student Talks"
       - hour: "Evening"
-        descr: "Arrosticini dinner (optional)"
+        descr: "Social dinner"
          
   - day: Friday
     date: "06/12"
