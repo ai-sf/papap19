@@ -50,9 +50,11 @@ schedule:
         descr: "Talks @GSSI"
       - hour: "13:00 - 14:00"
         descr: "Lunch"
-      - hour: "14:30 - 17:30"
+      - hour: "14:30 - 16:30"
         descr: "Student Talks"
-      - hour: "Evening"
+      - hour: "16:30 - 18:00"
+        descr: "Guided tour to L'Aquila"
+      - hour: "20:30 - "
         descr: "Social dinner"
          
   - day: Friday
