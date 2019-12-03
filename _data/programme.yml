@@ -57,7 +57,7 @@ schedule:
     short_descr: Gran Sasso Science Institute
     activity:
       - hour: "9:15 - 9:30"
-        descr: "Welcome @GSSI - Dr. Ivan De Mitri (GSSI & INFN) and Dr. Mannarelli (LNGS) "
+        descr: "Welcome @GSSI - Prof. Ivan De Mitri (GSSI & INFN) and Dr. Mannarelli (LNGS) "
       - hour: "9:30 - 10:30"
         descr: "Talk by Dr. Ivan De Mitri"
       - hour: "10:30 - 11:30"
